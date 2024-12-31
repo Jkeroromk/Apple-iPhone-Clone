@@ -1,5 +1,5 @@
 import Chip from "./components/Chip.jsx";
-import Featured from "./components/featured.jsx";
+import Featured from "./components/Featured.jsx";
 import Footer from "./components/Footer.jsx";
 import Hero from "./components/Hero.jsx"
 import HighLight from "./components/HighLight.jsx"
